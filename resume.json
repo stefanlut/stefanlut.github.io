@@ -27,8 +27,8 @@
       "company": "BU Brain & Vision Laboratory",
       "position": "Undergraduate Research Intern",
       "website": "https://www.bu.edu/bravi/",
-      "startDate": "Fall 2019",
-      "endDate": "",
+      "startDate": "2019-09-10",
+      
       "summary": "  The goal of research in the Brain and Vision Research Laboratory is to understand the mechanisms mediating human visual perception in healthy and damaged human brain, long-term plasticity and short-term dynamics in networks of the adult normal and damaged (from stroke) cortex by using interactively multimodal imaging (fMRI, MEG), psychophysics, and biologically constrained computational modeling.",
       "highlights": [
         "Currently working on a psychophysical experiment involving Visually Guided Navigation using the Unity 3D game engine and C#.",
@@ -55,7 +55,7 @@
       "area": "Biomedical Engineering",
       "studyType": "Bachelor",
       "startDate": "2018-08-31",
-      "endDate": "May 2022",
+      "endDate": "2022-05-15",
       "gpa": "3.48",
       "courses": [
         "CAS MA226 - Differential Equations",
