@@ -59,7 +59,15 @@
       "gpa": "3.48",
       "courses": [
         "CAS MA226 - Differential Equations",
-        "CS2011 - Java Introduction"
+        "ENG EK307 - Electric Circuits",
+        "ENG BE209 - Principles of Molecular & Cellular Biology",
+        "ENG EK301 - Mechanics I",
+        "CAS PY211/212 - General Physics",
+        "CAS CH101/102 - General Chemistry",
+        "ENG EK381 - Probability, Statistics & Data Science",
+        "CAS MA225 - Multivariate Calculus",
+        "ENG EK131 - Human Brain Mapping",
+        "ENG EK103 - Computational Linear Algebra"
       ]
     }
   ],
