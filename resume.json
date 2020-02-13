@@ -6,7 +6,7 @@
     "email": "slutschg@bu.edu",
     "phone": "(305) 283-2202",
     "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "Stefan hails from Santiago, Chile and Miami, Florida. He is currently in his second year at Boston University working on his Bachelor of Science Degree in Biomedical Engineering.",
     "location": {
       "address": "518 Park Drive Box 6404",
       "postalCode": "MA 02215",
@@ -16,11 +16,6 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
-      },
-      {
         "network": "LinkedIn",
         "username": "Stefan Lutschg",
         "url": "https://www.linkedin.com/in/stefan-lutschg-espinosa-611530181/"
@@ -29,16 +24,15 @@
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "BU Brain & Vision Laboratory",
+      "position": "Undergraduate Research Intern",
+      "website": "https://www.bu.edu/bravi/",
+      "startDate": "Fall 2019",
+      "endDate": "",
+      "summary": "  The goal of research in the Brain and Vision Research Laboratory is to understand the mechanisms mediating human visual perception in healthy and damaged human brain, long-term plasticity and short-term dynamics in networks of the adult normal and damaged (from stroke) cortex by using interactively multimodal imaging (fMRI, MEG), psychophysics, and biologically constrained computational modeling.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Currently working on a psychophysical experiment involving Visually Guided Navigation using the Unity 3D game engine and C#.",
+        "The goal of this experiment is to be able to use it with medical imaging techniques such as MEG."
       ]
     }
   ],
@@ -57,14 +51,14 @@
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
+      "institution": "Boston University",
+      "area": "Biomedical Engineering",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "startDate": "2018-08-31",
+      "endDate": "May 2022",
+      "gpa": "3.48",
       "courses": [
-        "DB1101 - Basic SQL",
+        "CAS MA226 - Differential Equations",
         "CS2011 - Java Introduction"
       ]
     }
