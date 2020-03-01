@@ -92,7 +92,7 @@
     {
       "name": "Temperature Control for Tissue Engineering",
       "project dates": "2019-09-03 - 2019-12-12",
-      "summary": "Design & build a prototype for a temperature regulating enclosure that will heat up a standard 96-well plate used on a microscope platform. Develop code using an Arduino board to collect temperature information from 4 temperature sensors, display Maximum, Minimum, & Mean temperatures on an LCD screen, and regulate the process of heating a nickel-chromium wire"
+      "summary": "Design & build a prototype for a temperature regulating enclosure that will heat up a standard 96-well plate used on a microscope platform. Develop code using an Arduino board to collect temperature information from 4 temperature sensors, display Maximum, Minimum, & Mean temperatures on an LCD screen, and regulate the process of heating a nickel-chromium wire. Pictures can be seen at the following link: https://imgur.com/a/RZfLEhs"
                   
     }
   ],
@@ -107,6 +107,7 @@
         "C#",
         "Arduino",
         "SQL"
+        
       ]
     },
     {
@@ -114,9 +115,20 @@
       "level": "Always Learning",
       "keywords": [
         "Spectrometry",
-        "Oscilloscope"
+        "Oscilloscope",
+        "Function Generator"
         
       ]
+    
+    },
+    {
+      "name": "Computer-Aided Design (CAD)",
+      "level": "Always Learning",
+      "keywords": [
+        "SolidWorks"
+        
+      ]
+    
     }
   ],
   "languages": [
