@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Stefan Eduardo Lütschg Espinosa",
-    "label": "Biomedical Engineer",
+    "label": "Biomedical Engineer (He/They)",
     "picture": "",
     "email": "slutschg@bu.edu",
     "phone": "(305) 283-2202",
     "website": "http://stefanlut.github.io",
-    "summary": "Stefan hails from Santiago, Chile and Miami, Florida. He is currently in his second year at Boston University working on his Bachelor of Science Degree in Biomedical Engineering. He hopes to gain experience working in the medical device industry and also hopes to gain a background in neuroscience so that he can work towards improving brain machine interfaces.",
+    "summary": "Stefan hails from Santiago, Chile and Miami, Florida. He is currently in his final year at Boston University working on his Bachelor of Science Degree in Biomedical Engineering. He hopes to gain experience working in the medical device industry and also hopes to gain a background in neuroscience so that he can work towards improving brain machine interfaces.",
     "location": {
-      "address": "518 Park Drive Box 6404",
+      "address": "Due to safety concerns please email Stefan for mailing address",
       "postalCode": "MA 02215",
       "city": "Boston",
       "countryCode": "US",
@@ -18,11 +18,41 @@
       {
         "network": "LinkedIn",
         "username": "Stefan Lutschg",
-        "url": "https://www.linkedin.com/in/stefan-lutschg-espinosa-611530181/"
+        "url": "https://www.linkedin.com/in/stefan-lutschg-espinosa/"
       }
     ]
   },
   "work": [
+    {
+      "company": "Boston University Bioengineering Technology & Entrepreneurship Center",
+      "position": "Laboratory Assistant",
+      "startDate":"2021-09-02",
+      "responsibilities":[
+        "Managed dry and wet laboratory equipment including but not limited to, PCR machines, Cell Imaging devices, Mixed Signal Oscilloscopes, Function Generators, Cell Incubators, Microscopes",
+        "Regulated access to laboratory equipment by ensuring students completed relevant Biosafety Lab trainings and were in compliance with BU COVID-19 regulations"
+      ]
+    },
+    {
+      "company": "Philips Andover Standards & Reliability Center (ASRC)",
+      "position": "Product Safety Engineering Intern",
+      "startDate":"2021-05-23",
+      "endDate":"2021-08-20",
+      "responsibilities":[
+        "Developed procedures and trained engineers on using Invasive Blood Pressure (IBP) monitoring equipment in order to do product safety testing according to standard IEC 60601-2-34",
+        "Performed Measurement of Uncertainty study on IBP test station as per standard ISO/IEC 17025"
+      ]
+      
+    },
+    {
+      "company": "Boston University College of Engineering",
+      "position": "Undergraduate Teaching Assistant",
+      "startDate": "2021-01-20",
+      "endDate": "2021-05-09",
+      "responsibilities":[
+        "Lectured 1st year engineering students on neuroscience and statistics topics in EK131 Introduction to Engineering: Human Brain Mapping",
+        "Implemented neuroscience experiment assigned as homework to develop students' skills in MATLAB programming and statistical analysis"
+      ]
+    },
     {
       "company": "BU Brain & Vision Laboratory",
       "position": "Undergraduate Research Intern",
@@ -39,6 +69,7 @@
       "position": "Production Assistant",
       "website": "https://www.bu.edu/cfa/music/",
       "startDate": "2018-09-10",
+      "endDate":"2020-12-31",
       "responsibilities": [
         "Ran stage management for School of Music ensemble concerts, student & faculty recitals, and masterclasses",
         "Set up for events, ensured all events ran smoothly, and communicated with performers to solve performance related problems quickly and efficiently"
@@ -103,10 +134,14 @@
       "keywords": [
         "MATLAB",
         "Python",
+        "scikit-learn",
+        "numpy",
+        "matplotlib",
         "C",
         "C#",
         "Arduino",
         "SQL"
+        
         
       ]
     },
